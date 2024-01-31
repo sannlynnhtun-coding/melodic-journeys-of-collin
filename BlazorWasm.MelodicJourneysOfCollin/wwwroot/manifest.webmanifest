@@ -1,6 +1,6 @@
 {
-  "name": "BlazorWasm.MelodicJourneysOfCollin",
-  "short_name": "BlazorWasm.MelodicJourneysOfCollin",
+  "name": "BlazorWasm.BlazorWasm.MelodicJourneysOfCollin",
+  "short_name": "BlazorWasm.BlazorWasm.MelodicJourneysOfCollin",
   "id": "./",
   "start_url": "./",
   "display": "standalone",

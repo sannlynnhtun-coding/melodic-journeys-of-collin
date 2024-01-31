@@ -1,0 +1,22 @@
+﻿@page "/"
+@* <PageMusicPlayer MusicInfo="MusicInfo"/> *@
+@* <PageLocalPlaylist OnMusicSelection="Play" /> *@
+@code{
+
+    private MusicInfoModel MusicInfo;
+    
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            
+        }
+    }
+
+    private void Play(MusicInfoModel musicInfo)
+    {
+        MusicInfo = musicInfo;
+        StateHasChanged();
+    }
+
+}

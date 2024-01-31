@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 29" width="86" height="29">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #25a56a } 
+		.s1 { opacity: .3;fill: #25a56a } 
+		.t2 { font-size: 17px;fill: #ffffff;font-weight: 400;font-family: "BatmanForeverAlternate", "BatmanForeverAlternate" } 
+	</style>
+	<path id="Layer" class="s0" d="m0 20c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m5 20c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m10 20c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m15 20c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s1" d="m0 15c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m5 15c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m10 15c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m15 15c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s1" d="m0 10c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s1" d="m5 10c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s0" d="m10 10c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<path id="Layer" class="s1" d="m15 10c0-0.6 0.4-1 1-1h2c0.6 0 1 0.4 1 1v2c0 0.6-0.4 1-1 1h-2c-0.6 0-1-0.4-1-1z"/>
+	<text id="CO||IN" style="transform: matrix(1,0,0,1,22.6,22)" >
+		<tspan x="0" y="0" class="t2">C</tspan><tspan  y="0" class="t2">O</tspan><tspan  y="0" class="t2">|</tspan><tspan  y="0" class="t2">|</tspan><tspan  y="0" class="t2">I</tspan><tspan  y="0" class="t2">N</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
