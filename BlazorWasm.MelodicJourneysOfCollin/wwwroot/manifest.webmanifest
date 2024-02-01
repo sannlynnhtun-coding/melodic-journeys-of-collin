@@ -1,20 +1,20 @@
 {
-  "name": "BlazorWasm.BlazorWasm.MelodicJourneysOfCollin",
-  "short_name": "BlazorWasm.BlazorWasm.MelodicJourneysOfCollin",
+  "name": "Melodic Journeys Of Collin",
+  "short_name": "Melodic Journeys Of Collin",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#03173d",
+  "theme_color": "#25a56a",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "icon-192.png",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "192x192"
     }
