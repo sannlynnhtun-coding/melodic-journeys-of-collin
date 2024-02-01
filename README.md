@@ -1,1 +1,1 @@
-# BlazorWasm.MelodicJourneysOfCollin
+# Melodic Journeys Of Collin
