@@ -11,7 +11,7 @@ namespace BlazorWasm.MelodicJourneysOfCollin.Services
 
         public static T ToObject<T>(this string str)
         {
-            return JsonConvert.DeserializeObject<T>(str);
+            return JsonConvert.DeserializeObject<T>(str)!;
         }
         
         public static string Get<T>(this IEnumerable<T> lst, T detail)
